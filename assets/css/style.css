@@ -1,0 +1,57 @@
+
+/* ------------------------------------------------------------------------------- */
+
+@import url("inner-page.css");
+@import url("main.css");
+@import url("login.css");
+@import url("technology.css");
+
+
+
+/* ------------------------------------------------------------------------------- */
+html{
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "Arial", sans-serif;
+  
+
+}
+
+a {
+  color: #ffc451;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffd584;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Arial", sans-serif, sans-serif;
+}
+
+.pagination{
+  justify-content: center;
+}
+
+
+.table {
+  justify-content: center;
+  margin-left:auto;
+  margin-right:auto;
+  width: 50%;
+  
+}
+/* @media all and {min-width = "1280px;"") 
+  
+} */
+
+/* ----------------------------------- */
